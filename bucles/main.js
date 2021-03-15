@@ -269,3 +269,17 @@
 
 
 
+// Ejercicios con bucle for
+
+//EJERCICIO 1
+// 🔢 Números impares
+// Crear un programa que muestre en consola los números impares entre el 0 y el 20
+
+//EJERCICIO 2
+// 📀 Playlist
+// Crear un programa que pida al usuario ingresar el nombre de una playlist y cuántas canciones desea agregar a la misma. Luego debe ir pidiendo agregar la cantidad de canciones elegidas de a una. Se debe ir mostrando la cantidad de canciones que quedan por agregar y la playlist con los temas hasta el momento a medida que se va a actualizando. Al finalizar mostrar un mensaje con el nombre de la playlist y la lista de canciones.
+
+//EJERCICIO 3
+// 🔍 Número mayor o menor
+// Crear un programa que pregunte si se desea buscar el mayor o el menor número de un conjunto. Luego, preguntar entre cuántos se desea buscar. Ir pidiendo ingresar uno por uno la cantidad de números que se eligió, y al finalizar mostrar el número mayor o menor de todos los ingresados según el elegido.
+
